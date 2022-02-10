@@ -1,0 +1,1968 @@
+fileFormatVersion: 2
+guid: 1d189f9bab2a72a4e93d01fc82e09d6f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6755890822891712604
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_0
+  - first:
+      213: 1847764000141137800
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_1
+  - first:
+      213: 6693982575841861994
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_2
+  - first:
+      213: 4908509681918755993
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_3
+  - first:
+      213: -6658414770573181139
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_4
+  - first:
+      213: 8697250598879521287
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_5
+  - first:
+      213: -4844844527337968790
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_6
+  - first:
+      213: 4079151866588712133
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_7
+  - first:
+      213: 6092775998729075869
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_8
+  - first:
+      213: -3180152006569447735
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_9
+  - first:
+      213: -7444001035568143181
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_10
+  - first:
+      213: 7141079051965794269
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_11
+  - first:
+      213: 4977754482481755119
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_12
+  - first:
+      213: 6712658598429678343
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_13
+  - first:
+      213: -4844137256643519473
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_14
+  - first:
+      213: 7826047261737501103
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_15
+  - first:
+      213: 364058372201061716
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_16
+  - first:
+      213: -1993415624449493114
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_17
+  - first:
+      213: 4183242089992852562
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_18
+  - first:
+      213: -3072983489964208918
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_19
+  - first:
+      213: 8669724354212503603
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_20
+  - first:
+      213: 275258114151434301
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_21
+  - first:
+      213: 4210592375674029856
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_22
+  - first:
+      213: -1232800750390681282
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_23
+  - first:
+      213: 6950355867957895891
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_24
+  - first:
+      213: 528858804766161851
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_25
+  - first:
+      213: -7956188856146059884
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_26
+  - first:
+      213: 2105711251296705205
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_27
+  - first:
+      213: 4009187298504094869
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_28
+  - first:
+      213: -3688596115524288683
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_29
+  - first:
+      213: -3911311343543182992
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_30
+  - first:
+      213: -8693836695634206750
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_31
+  - first:
+      213: -6595476282127635677
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_32
+  - first:
+      213: -2316291817827877107
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_33
+  - first:
+      213: -2178747901423624967
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_34
+  - first:
+      213: -9139001661764728041
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_35
+  - first:
+      213: 4597582215060755808
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_36
+  - first:
+      213: -7264016387086179827
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_37
+  - first:
+      213: 9149215474776365207
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_38
+  - first:
+      213: -7047381227150087740
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_39
+  - first:
+      213: 1526692989758989587
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_40
+  - first:
+      213: 4093492963819971548
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_41
+  - first:
+      213: 754818480971262785
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_42
+  - first:
+      213: -4575381656347680891
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_43
+  - first:
+      213: 4404993390708019451
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_44
+  - first:
+      213: -1788367309254846106
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_45
+  - first:
+      213: -5353139413906533761
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_46
+  - first:
+      213: 8358899108661525412
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_47
+  - first:
+      213: -1873639114094075505
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_48
+  - first:
+      213: 1333837868908667504
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_49
+  - first:
+      213: -3366729951979702746
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_50
+  - first:
+      213: -6037366913717940205
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_51
+  - first:
+      213: 1370061230878131918
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_52
+  - first:
+      213: -4765878130323078525
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_53
+  - first:
+      213: 5308293806940733471
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_54
+  - first:
+      213: 2615932249655587931
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_55
+  - first:
+      213: -9156864547310663441
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_56
+  - first:
+      213: 3288919322534514290
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_57
+  - first:
+      213: 3695837865152382250
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_58
+  - first:
+      213: 4791282717275559579
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_59
+  - first:
+      213: 636395396813809315
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_60
+  - first:
+      213: 873422228154163622
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_61
+  - first:
+      213: 574441876324185427
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_62
+  - first:
+      213: 3895891393803819951
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_63
+  - first:
+      213: -3079424004575538617
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_64
+  - first:
+      213: 1353275649627566626
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_65
+  - first:
+      213: 1805323635705652496
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_66
+  - first:
+      213: -662324121984320575
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_67
+  - first:
+      213: -7361702609311494584
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_68
+  - first:
+      213: 7706340949833999488
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_69
+  - first:
+      213: 6835113522007260886
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_70
+  - first:
+      213: 782439344344884116
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_71
+  - first:
+      213: 3358179344973283411
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_72
+  - first:
+      213: -6072875174437890878
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_73
+  - first:
+      213: 977425324815988059
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_74
+  - first:
+      213: 5458138445751517517
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_75
+  - first:
+      213: -8118323366109191849
+    second: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_76
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 220
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afc73047114e32a0800000000000000
+      internalID: -6755890822891712604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 220
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887da29719394a910800000000000000
+      internalID: 1847764000141137800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 220
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6165bdbfadc5ec50800000000000000
+      internalID: 6693982575841861994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 220
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994455f9c878e1440800000000000000
+      internalID: 4908509681918755993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_4
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 221
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f75c04b0f8893a0800000000000000
+      internalID: -6658414770573181139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_5
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 224
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a64c4f657d2b870800000000000000
+      internalID: 8697250598879521287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_6
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 224
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b660c4297a3ccb0800000000000000
+      internalID: -4844844527337968790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_7
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 225
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc44e8a20f0c9830800000000000000
+      internalID: 4079151866588712133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_8
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 225
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cb54c6d73ed8450800000000000000
+      internalID: 6092775998729075869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_9
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 225
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ceaea46994ddd3d0800000000000000
+      internalID: -3180152006569447735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_10
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 224
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b422578f7891b890800000000000000
+      internalID: -7444001035568143181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_11
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 222
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7876d00953a1360800000000000000
+      internalID: 7141079051965794269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_12
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 223
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3fe6b1459841540800000000000000
+      internalID: 4977754482481755119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_13
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 228
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b5fd91e67282d50800000000000000
+      internalID: 6712658598429678343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_14
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 228
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c178694da26ccb0800000000000000
+      internalID: -4844137256643519473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_15
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 228
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa148473584bb9c60800000000000000
+      internalID: 7826047261737501103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_16
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 220
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d1d8029256d0500800000000000000
+      internalID: 364058372201061716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_17
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 227
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68779f61d07f554e0800000000000000
+      internalID: -1993415624449493114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_18
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 227
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2549c7f548cdd0a30800000000000000
+      internalID: 4183242089992852562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_19
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 226
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec0b081cc19a55d0800000000000000
+      internalID: -3072983489964208918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_20
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 226
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330a361bd5c015870800000000000000
+      internalID: 8669724354212503603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 185
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d384a83ebc9e1d300800000000000000
+      internalID: 275258114151434301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_22
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 177
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027c40ef4770f6a30800000000000000
+      internalID: 4210592375674029856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 188
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31e02acf3634eee0800000000000000
+      internalID: -1232800750390681282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_24
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 189
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2ae2c56df947060800000000000000
+      internalID: 6950355867957895891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_25
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 189
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbbc6ae742e65700800000000000000
+      internalID: 528858804766161851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_26
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 189
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d1e779360f59190800000000000000
+      internalID: -7956188856146059884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_27
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 188
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba551df93df83d10800000000000000
+      internalID: 2105711251296705205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_28
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 186
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594385d3b9e73a730800000000000000
+      internalID: 4009187298504094869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_29
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 185
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ff94e30697fccc0800000000000000
+      internalID: -3688596115524288683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_30
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 181
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079172a5e0b38b9c0800000000000000
+      internalID: -3911311343543182992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_31
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 188
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef97755699495780800000000000000
+      internalID: -8693836695634206750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_32
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 189
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ba44704492874a0800000000000000
+      internalID: -6595476282127635677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_33
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 189
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fb93a2dd0eadfd0800000000000000
+      internalID: -2316291817827877107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 146
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc5480c35883c1e0800000000000000
+      internalID: -2178747901423624967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_35
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 145
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b0fccb86ebb2180800000000000000
+      internalID: -9139001661764728041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_36
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 143
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06599526aa4edcf30800000000000000
+      internalID: 4597582215060755808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_37
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 144
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02ac151597013b90800000000000000
+      internalID: -7264016387086179827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_38
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 141
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7985d8beffa88fe70800000000000000
+      internalID: 9149215474776365207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_39
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 141
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c966fecc1ca23e90800000000000000
+      internalID: -7047381227150087740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_40
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 141
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315e9a77f27ef2510800000000000000
+      internalID: 1526692989758989587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_41
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 143
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3ec0f89220fc830800000000000000
+      internalID: 4093492963819971548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_42
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 141
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b2134c867a97a00800000000000000
+      internalID: 754818480971262785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_43
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 161
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fde8dff9af080c0800000000000000
+      internalID: -4575381656347680891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_44
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 142
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf05813762ea12d30800000000000000
+      internalID: 4404993390708019451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_45
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 143
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66991fb48617e27e0800000000000000
+      internalID: -1788367309254846106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_46
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 143
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7255f0b014d5b5b0800000000000000
+      internalID: -5353139413906533761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_47
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 143
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab7915b376c00470800000000000000
+      internalID: 8358899108661525412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_48
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 141
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f812527172f7ff5e0800000000000000
+      internalID: -1873639114094075505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_49
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 141
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072e34c897eb28210800000000000000
+      internalID: 1333837868908667504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_50
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 141
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626f49542f8f641d0800000000000000
+      internalID: -3366729951979702746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_51
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 141
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310552187c6f63ca0800000000000000
+      internalID: -6037366913717940205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_52
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 141
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6860b3e6f630310800000000000000
+      internalID: 1370061230878131918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_53
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 105
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3824a4757133cddb0800000000000000
+      internalID: -4765878130323078525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_54
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 105
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10cb16c719daa940800000000000000
+      internalID: 5308293806940733471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_55
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 105
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54b5317588ad4420800000000000000
+      internalID: 2615932249655587931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_56
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 105
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe80e2995384ce080800000000000000
+      internalID: -9156864547310663441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_57
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 105
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e869ac2b694ad20800000000000000
+      internalID: 3288919322534514290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_58
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 105
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2588dbf4f04a4330800000000000000
+      internalID: 3695837865152382250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_59
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 106
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b969dadfe3e0e7240800000000000000
+      internalID: 4791282717275559579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_60
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 105
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6e7cbdd3ee4d800800000000000000
+      internalID: 636395396813809315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_61
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 105
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a12f0093e40f1c00800000000000000
+      internalID: 873422228154163622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_62
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 105
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355796ec7d3d8f700800000000000000
+      internalID: 574441876324185427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_63
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 105
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab9d23d49cf01630800000000000000
+      internalID: 3895891393803819951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_64
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 124
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742d67eee20b345d0800000000000000
+      internalID: -3079424004575538617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_65
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 104
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222bc3b880dc7c210800000000000000
+      internalID: 1353275649627566626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_66
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 105
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0152ada184ccd0910800000000000000
+      internalID: 1805323635705652496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_67
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 104
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbb3fe58b3fec6f0800000000000000
+      internalID: -662324121984320575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_68
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 106
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e0ce51b7af5d990800000000000000
+      internalID: -7361702609311494584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_69
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 106
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084e6e0934c62fa60800000000000000
+      internalID: 7706340949833999488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_70
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 105
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de36b6c8833bde50800000000000000
+      internalID: 6835113522007260886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_71
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 104
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49367f92078cbda00800000000000000
+      internalID: 782439344344884116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_72
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 105
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350cf256256aa9e20800000000000000
+      internalID: 3358179344973283411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_73
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 104
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4575e4430d8bba0800000000000000
+      internalID: -6072875174437890878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_74
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 106
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55b0208723809d00800000000000000
+      internalID: 977425324815988059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_75
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 69
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d410ce97ff33fbb40800000000000000
+      internalID: 5458138445751517517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Cyrus Apothecary_76
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 68
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751ee4749ebe55f80800000000000000
+      internalID: -8118323366109191849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

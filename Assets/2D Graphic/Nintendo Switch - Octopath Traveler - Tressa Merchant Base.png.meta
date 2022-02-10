@@ -1,0 +1,5760 @@
+fileFormatVersion: 2
+guid: 72b644a9ee91f064395463d3fc1ca6de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -236023361035052546
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_0
+  - first:
+      213: -6957252167108469750
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_1
+  - first:
+      213: 2889075061343465426
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_2
+  - first:
+      213: 8768401477168520835
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_3
+  - first:
+      213: -8709166791246724969
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_4
+  - first:
+      213: 4295440913687779375
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_5
+  - first:
+      213: -8475892454940914444
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_6
+  - first:
+      213: 7746109373804134462
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_7
+  - first:
+      213: 5568904651755813909
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_8
+  - first:
+      213: 1809867941190045009
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_9
+  - first:
+      213: -22748195955629584
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_10
+  - first:
+      213: 2946224137720397683
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_11
+  - first:
+      213: -3728751796933875454
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_12
+  - first:
+      213: -3171028950647887208
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_13
+  - first:
+      213: -4705651288916257672
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_14
+  - first:
+      213: 1602978042748819427
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_15
+  - first:
+      213: -4103663575983016734
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_16
+  - first:
+      213: -3950688678742172944
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_17
+  - first:
+      213: 8745300027325825026
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_18
+  - first:
+      213: -1785943265739124031
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_19
+  - first:
+      213: 6279516627435903859
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_20
+  - first:
+      213: -7953390149841464943
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_21
+  - first:
+      213: -4772839488059232833
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_22
+  - first:
+      213: -632064929036369790
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_23
+  - first:
+      213: 4415088621142459173
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_24
+  - first:
+      213: 8840291726083644727
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_25
+  - first:
+      213: 5135787321346806889
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_26
+  - first:
+      213: 3175285251960288861
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_27
+  - first:
+      213: 4059001234271294307
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_28
+  - first:
+      213: 5003556994938739365
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_29
+  - first:
+      213: -2574183750573185363
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_30
+  - first:
+      213: -2383938041751038085
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_31
+  - first:
+      213: 966199005328884458
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_32
+  - first:
+      213: 8949416626271304183
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_33
+  - first:
+      213: 3654184428829733763
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_34
+  - first:
+      213: 702425413678821187
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_35
+  - first:
+      213: -9012332438897016002
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_36
+  - first:
+      213: 7495707305750953326
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_37
+  - first:
+      213: -5681385665552810353
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_38
+  - first:
+      213: -7375512451359271942
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_39
+  - first:
+      213: -5644110208686247989
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_40
+  - first:
+      213: 3550560159541392943
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_41
+  - first:
+      213: 3486518317549764185
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_42
+  - first:
+      213: -3412043082790662435
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_43
+  - first:
+      213: 5668613847299500553
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_44
+  - first:
+      213: -5494677845188189809
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_45
+  - first:
+      213: -139153627729703664
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_46
+  - first:
+      213: -4884005355802738512
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_47
+  - first:
+      213: 764434838725052320
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_48
+  - first:
+      213: -5484920219953944600
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_49
+  - first:
+      213: 3284350640304378458
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_50
+  - first:
+      213: -3832897454684989030
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_51
+  - first:
+      213: 3286352007380676045
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_52
+  - first:
+      213: -6614611864676312041
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_53
+  - first:
+      213: -2547278098197277504
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_54
+  - first:
+      213: 3231497180087004287
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_55
+  - first:
+      213: -307446149163937030
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_56
+  - first:
+      213: -3106276438081979966
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_57
+  - first:
+      213: -2576734296081977695
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_58
+  - first:
+      213: 5981119308120378689
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_59
+  - first:
+      213: 5521347056338755776
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_60
+  - first:
+      213: 1445525821029222982
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_61
+  - first:
+      213: -5864044291058825737
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_62
+  - first:
+      213: -8560221894037298154
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_63
+  - first:
+      213: -1883373452869937998
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_64
+  - first:
+      213: -6512825184804694728
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_65
+  - first:
+      213: 4607374151654240715
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_66
+  - first:
+      213: 8417582476723647823
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_67
+  - first:
+      213: -3374855570333669059
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_68
+  - first:
+      213: -5350288259837194037
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_69
+  - first:
+      213: -2202948895891402201
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_70
+  - first:
+      213: -4780280293594529209
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_71
+  - first:
+      213: 4967782411644676009
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_72
+  - first:
+      213: -657807633549743710
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_73
+  - first:
+      213: -6229469867833723422
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_74
+  - first:
+      213: -5934186868785196959
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_75
+  - first:
+      213: 3028015824446151878
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_76
+  - first:
+      213: 7604891009327829147
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_77
+  - first:
+      213: -7401924207776721055
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_78
+  - first:
+      213: 7258506892331350611
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_79
+  - first:
+      213: -5390031549294256273
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_80
+  - first:
+      213: 6631546136145531230
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_81
+  - first:
+      213: -8534277852227216710
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_82
+  - first:
+      213: -5568568925175803136
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_83
+  - first:
+      213: 4976835112472315396
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_84
+  - first:
+      213: -5142939925890175406
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_85
+  - first:
+      213: 7222660021838445040
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_86
+  - first:
+      213: 2367009549954858455
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_87
+  - first:
+      213: -7525766864940987455
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_88
+  - first:
+      213: 2376646612248144439
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_89
+  - first:
+      213: -6825661597739613134
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_90
+  - first:
+      213: -1806482852979924626
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_91
+  - first:
+      213: 6386134544841580124
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_92
+  - first:
+      213: 3587275263512484751
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_93
+  - first:
+      213: -7979853072648590890
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_94
+  - first:
+      213: 8441868515923915116
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_95
+  - first:
+      213: 4479886674336425236
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_96
+  - first:
+      213: -3768152080511705357
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_97
+  - first:
+      213: -1798560243082992751
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_98
+  - first:
+      213: 7786569522820296869
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_99
+  - first:
+      213: 3913129958508215812
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_100
+  - first:
+      213: -7553882553588362039
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_101
+  - first:
+      213: 1845459230587723691
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_102
+  - first:
+      213: -5772963075538780256
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_103
+  - first:
+      213: 8066388434903357731
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_104
+  - first:
+      213: 6830539566511163127
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_105
+  - first:
+      213: 3543531017771924885
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_106
+  - first:
+      213: -8385860148215898409
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_107
+  - first:
+      213: 7810833429722552277
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_108
+  - first:
+      213: -4290677195354043914
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_109
+  - first:
+      213: 5513665095848353697
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_110
+  - first:
+      213: 7814479722290845058
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_111
+  - first:
+      213: -5477545663601745397
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_112
+  - first:
+      213: 4750595364508771436
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_113
+  - first:
+      213: -2994056829051966692
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_114
+  - first:
+      213: 6234684394419440681
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_115
+  - first:
+      213: 6158686235864485646
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_116
+  - first:
+      213: -6404370393040786410
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_117
+  - first:
+      213: 3198082891758745732
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_118
+  - first:
+      213: 289895139407607638
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_119
+  - first:
+      213: 3449893325516507061
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_120
+  - first:
+      213: 884757020606132302
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_121
+  - first:
+      213: -8711633679642006601
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_122
+  - first:
+      213: -3240768943967536472
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_123
+  - first:
+      213: 5849103365055542577
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_124
+  - first:
+      213: 2988004763641411607
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_125
+  - first:
+      213: 7352799415350686798
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_126
+  - first:
+      213: 8325816464415398593
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_127
+  - first:
+      213: 1823687203711896093
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_128
+  - first:
+      213: 8419152367618680884
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_129
+  - first:
+      213: 3574978197532676725
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_130
+  - first:
+      213: 4778235761683797280
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_131
+  - first:
+      213: 7224730338715402831
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_132
+  - first:
+      213: -6237169352923148970
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_133
+  - first:
+      213: 6015058129820797593
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_134
+  - first:
+      213: 4520683238919591180
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_135
+  - first:
+      213: 4799099843089166599
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_136
+  - first:
+      213: 814336276013752828
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_137
+  - first:
+      213: -3273464340127374940
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_138
+  - first:
+      213: -7115489866550963232
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_139
+  - first:
+      213: 3729433357736995738
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_140
+  - first:
+      213: -5115531149421096442
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_141
+  - first:
+      213: -5907403651904684088
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_142
+  - first:
+      213: 8007041716011903459
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_143
+  - first:
+      213: 7721520209319086628
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_144
+  - first:
+      213: 3305332363777197281
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_145
+  - first:
+      213: -4407725777926537895
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_146
+  - first:
+      213: 3619753107798176375
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_147
+  - first:
+      213: -5739543128825324354
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_148
+  - first:
+      213: -2843284742249126040
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_149
+  - first:
+      213: 3282961854991810988
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_150
+  - first:
+      213: 1142987829995610707
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_151
+  - first:
+      213: -2045022067940574588
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_152
+  - first:
+      213: 3132042721602939595
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_153
+  - first:
+      213: -8055090661935005669
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_154
+  - first:
+      213: 6354875125831100706
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_155
+  - first:
+      213: 2915828545233117143
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_156
+  - first:
+      213: 1967593899401044987
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_157
+  - first:
+      213: -7541378365378455890
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_158
+  - first:
+      213: -8031280358576777110
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_159
+  - first:
+      213: -6717484419958459822
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_160
+  - first:
+      213: -222042319379934187
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_161
+  - first:
+      213: 3466754940890491912
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_162
+  - first:
+      213: -3466747562223242699
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_163
+  - first:
+      213: 1413502667530473569
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_164
+  - first:
+      213: 7295625088449461195
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_165
+  - first:
+      213: 6865327724374716298
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_166
+  - first:
+      213: -5264425878259872272
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_167
+  - first:
+      213: -3399511187138797697
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_168
+  - first:
+      213: 120040678643309428
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_169
+  - first:
+      213: 474955578957199495
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_170
+  - first:
+      213: -3512757070045967238
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_171
+  - first:
+      213: -6059531195277054449
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_172
+  - first:
+      213: 1762643963307683637
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_173
+  - first:
+      213: -5563982671610472554
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_174
+  - first:
+      213: 5973220884504256453
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_175
+  - first:
+      213: -8612502200050251298
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_176
+  - first:
+      213: 7199606152208664489
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_177
+  - first:
+      213: -7126474986204666498
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_178
+  - first:
+      213: -246315937435845793
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_179
+  - first:
+      213: 1976020429670413174
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_180
+  - first:
+      213: 7005576316430335722
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_181
+  - first:
+      213: 701368678880059749
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_182
+  - first:
+      213: 2181835641708451815
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_183
+  - first:
+      213: 3443732499123842386
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_184
+  - first:
+      213: -2111099297683548424
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_185
+  - first:
+      213: -5267631800395796172
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_186
+  - first:
+      213: 1554572930057440640
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_187
+  - first:
+      213: 9072673504593267598
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_188
+  - first:
+      213: -4149814712351398974
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_189
+  - first:
+      213: -3539998368203360001
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_190
+  - first:
+      213: -896887942617266874
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_191
+  - first:
+      213: -173192375061793206
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_192
+  - first:
+      213: -4482576612757774228
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_193
+  - first:
+      213: 3872426933366613169
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_194
+  - first:
+      213: -1928285352235260722
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_195
+  - first:
+      213: 5079193312237337882
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_196
+  - first:
+      213: 8883333337916976940
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_197
+  - first:
+      213: 5733300777980944352
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_198
+  - first:
+      213: 5923562902703055658
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_199
+  - first:
+      213: -2077900589541672372
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_200
+  - first:
+      213: -4078259387047019198
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_201
+  - first:
+      213: 6752072123226359476
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_202
+  - first:
+      213: 1944654972135384768
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_203
+  - first:
+      213: -3674471366442416955
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_204
+  - first:
+      213: -6350485490337427791
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_205
+  - first:
+      213: 2374657484394515810
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_206
+  - first:
+      213: -494315676197155564
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_207
+  - first:
+      213: -851330404342745368
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_208
+  - first:
+      213: 3927901095210658875
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_209
+  - first:
+      213: -6857988004058322199
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_210
+  - first:
+      213: 633089870684146691
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_211
+  - first:
+      213: -1662155443355951078
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_212
+  - first:
+      213: -3028607015980801453
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_213
+  - first:
+      213: -7557714392936903746
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_214
+  - first:
+      213: -7187254470796336195
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_215
+  - first:
+      213: -5044559005001758150
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_216
+  - first:
+      213: -3676212966218553849
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_217
+  - first:
+      213: 292425743335622205
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_218
+  - first:
+      213: 2103230600562056054
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_219
+  - first:
+      213: -6502003927512505626
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_220
+  - first:
+      213: -8172324777888431974
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_221
+  - first:
+      213: 5350051006481578530
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_222
+  - first:
+      213: 9141505602475811274
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_223
+  - first:
+      213: 7127930845271515582
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_224
+  - first:
+      213: 7952850415689043307
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_225
+  - first:
+      213: 4493780249657839859
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_226
+  - first:
+      213: -2917839814886393903
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_227
+  - first:
+      213: -688715566209161940
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_228
+  - first:
+      213: 3441645750394603960
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_229
+  - first:
+      213: -8963015539756888336
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_230
+  - first:
+      213: -2103687725499606724
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_231
+  - first:
+      213: 8804190329805813851
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_232
+  - first:
+      213: 7436151949871683977
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_233
+  - first:
+      213: -1962383750354390340
+    second: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_234
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 476
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9dfcee00a79bcf0800000000000000
+      internalID: -236023361035052546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 479
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cdeaed300e27f90800000000000000
+      internalID: -6957252167108469750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 480
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df21d8167e081820800000000000000
+      internalID: 2889075061343465426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 499
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ed3aebfae9fa970800000000000000
+      internalID: 8768401477168520835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_4
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 480
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7904c1e42f2d22780800000000000000
+      internalID: -8709166791246724969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_5
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 480
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f281a06b0c87c9b30800000000000000
+      internalID: 4295440913687779375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 476
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc45dc28b49f5a80800000000000000
+      internalID: -8475892454940914444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 479
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e304be05f65bf7b60800000000000000
+      internalID: 7746109373804134462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_8
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 480
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cfce38649b84d40800000000000000
+      internalID: 5568904651755813909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_9
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 480
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d000dad41fd1910800000000000000
+      internalID: 1809867941190045009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_10
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 499
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1a8c4e2ae2faff0800000000000000
+      internalID: -22748195955629584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_11
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 480
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f71855e3713e820800000000000000
+      internalID: 2946224137720397683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_12
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 476
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20928281fffc04cc0800000000000000
+      internalID: -3728751796933875454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_13
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 478
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a272068fd3ef3d0800000000000000
+      internalID: -3171028950647887208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_14
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 480
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8749947951b22beb0800000000000000
+      internalID: -4705651288916257672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_15
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 480
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e75bc4790cee3610800000000000000
+      internalID: 1602978042748819427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_16
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 481
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4b2d348bbdc07c0800000000000000
+      internalID: -4103663575983016734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_17
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 481
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa5a6d04955c29c0800000000000000
+      internalID: -3950688678742172944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_18
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 481
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20048fe4a0c8d5970800000000000000
+      internalID: 8745300027325825026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_19
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 480
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c25e98ef0e0737e0800000000000000
+      internalID: -1785943265739124031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_20
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 478
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bd9733a13552750800000000000000
+      internalID: 6279516627435903859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_21
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 476
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191db9e2cc1ef9190800000000000000
+      internalID: -7953390149841464943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_22
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 478
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbda540f5c773cdb0800000000000000
+      internalID: -4772839488059232833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_23
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 480
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2800ecdbb447a37f0800000000000000
+      internalID: -632064929036369790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 444
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523c01375bb854d30800000000000000
+      internalID: 4415088621142459173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_25
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 445
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d5a0cac760faa70800000000000000
+      internalID: 8840291726083644727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_26
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 445
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964d4d2bb5bf54740800000000000000
+      internalID: 5135787321346806889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_27
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 445
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5631affc11e01c20800000000000000
+      internalID: 3175285251960288861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_28
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 444
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363dc97fd18745830800000000000000
+      internalID: 4059001234271294307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_29
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 442
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa9eb0b394307540800000000000000
+      internalID: 5003556994938739365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_30
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 443
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6a0887489a64cd0800000000000000
+      internalID: -2574183750573185363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_31
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 443
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7793ee4bfc8aeed0800000000000000
+      internalID: -2383938041751038085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_32
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 440
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2c6fe40e0a86d00800000000000000
+      internalID: 966199005328884458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_33
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 440
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f930eb6107b23c70800000000000000
+      internalID: 8949416626271304183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_34
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 440
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383f828906546b230800000000000000
+      internalID: 3654184428829733763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_35
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 440
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f688f21348fb900800000000000000
+      internalID: 702425413678821187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_36
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 447
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3340dd6563cde280800000000000000
+      internalID: -9012332438897016002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_37
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 447
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6df593a41a160860800000000000000
+      internalID: 7495707305750953326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_38
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 447
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e7ab4a6d9a721b0800000000000000
+      internalID: -5681385665552810353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_39
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 447
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3924ca08ae4a990800000000000000
+      internalID: -7375512451359271942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_40
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 447
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfa9124ba71ca1b0800000000000000
+      internalID: -5644110208686247989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_41
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 447
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f267e1747af164130800000000000000
+      internalID: 3550560159541392943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_42
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 447
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e327cffe9926030800000000000000
+      internalID: 3486518317549764185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_43
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 447
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde0febd4ecf5a0d0800000000000000
+      internalID: -3412043082790662435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_44
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 440
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90aa521b246faae40800000000000000
+      internalID: 5668613847299500553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 405
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f816952ac9bfeb3b0800000000000000
+      internalID: -5494677845188189809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_46
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 406
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dc6f94380a11ef0800000000000000
+      internalID: -139153627729703664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_47
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 406
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0c5466107883cb0800000000000000
+      internalID: -4884005355802738512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_48
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 404
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7c3288f61db9a00800000000000000
+      internalID: 764434838725052320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_49
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 405
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7a94cce16a1e3b0800000000000000
+      internalID: -5484920219953944600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_50
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 406
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a525b21918b549d20800000000000000
+      internalID: 3284350640304378458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_51
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 406
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9990019210decac0800000000000000
+      internalID: -3832897454684989030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_52
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 404
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd21d62db77b9d20800000000000000
+      internalID: 3286352007380676045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_53
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 405
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c52e60e8d2434a0800000000000000
+      internalID: -6614611864676312041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_54
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 406
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c491d4d01046acd0800000000000000
+      internalID: -2547278098197277504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_55
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 406
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c23c7609598dc20800000000000000
+      internalID: 3231497180087004287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_56
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 406
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af295833b5bbbbbf0800000000000000
+      internalID: -307446149163937030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_57
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 406
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c935fd890a44e4d0800000000000000
+      internalID: -3106276438081979966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_58
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 405
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aea7715fc99d3cd0800000000000000
+      internalID: -2576734296081977695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_59
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 368
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14dceb74254310350800000000000000
+      internalID: 5981119308120378689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_60
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 369
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c068b6f4e3cf9c40800000000000000
+      internalID: 5521347056338755776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_61
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 370
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a0a14531a8f0410800000000000000
+      internalID: 1445525821029222982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_62
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 370
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5084c49cabe9ea0800000000000000
+      internalID: -5864044291058825737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_63
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 370
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614a2679a8bf33980800000000000000
+      internalID: -8560221894037298154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_64
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 370
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4594ab2d9ecd5e0800000000000000
+      internalID: -1883373452869937998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_65
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 369
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8359f77300ccd95a0800000000000000
+      internalID: -6512825184804694728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_66
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 371
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1faa8416ea0ff30800000000000000
+      internalID: 4607374151654240715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_67
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 371
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f457aa01aa241d470800000000000000
+      internalID: 8417582476723647823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_68
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 369
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3963025dba1a21d0800000000000000
+      internalID: -3374855570333669059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_69
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 369
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0167abc25ffb5b0800000000000000
+      internalID: -5350288259837194037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_70
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 369
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722dd02a6ad8d61e0800000000000000
+      internalID: -2202948895891402201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_71
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 369
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7428f75666809adb0800000000000000
+      internalID: -4780280293594529209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_72
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 369
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7a38f68cb11f440800000000000000
+      internalID: 4967782411644676009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_73
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 369
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a92ab7417ffed6f0800000000000000
+      internalID: -657807633549743710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_74
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 369
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e575cc092a7c89a0800000000000000
+      internalID: -6229469867833723422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_75
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 369
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1605547cb7885ada0800000000000000
+      internalID: -5934186868785196959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_76
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 369
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccdf56695ca50a20800000000000000
+      internalID: 3028015824446151878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_77
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 369
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b901c8e94100a8960800000000000000
+      internalID: 7604891009327829147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_78
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 369
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1679a1d6625174990800000000000000
+      internalID: -7401924207776721055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_79
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 369
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a7225bf856bb460800000000000000
+      internalID: 7258506892331350611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_80
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 368
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fda201dd2c235b0800000000000000
+      internalID: -5390031549294256273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_81
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 332
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51919c431cf70c50800000000000000
+      internalID: 6631546136145531230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_82
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 349
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba538b8287209980800000000000000
+      internalID: -8534277852227216710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_83
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 349
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0031e9be01878b2b0800000000000000
+      internalID: -5568568925175803136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_84
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 337
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4068a989a25411540800000000000000
+      internalID: 4976835112472315396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_85
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 337
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e6428c26b90a8b0800000000000000
+      internalID: -5142939925890175406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_86
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 334
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f97817c50b0c3460800000000000000
+      internalID: 7222660021838445040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_87
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 334
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd340d05ae49d020800000000000000
+      internalID: 2367009549954858455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 334
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb89c8d8ea1f8790800000000000000
+      internalID: -7525766864940987455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_89
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 334
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73aafa7708b8bf020800000000000000
+      internalID: 2376646612248144439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_90
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 334
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23484b5d0f06641a0800000000000000
+      internalID: -6825661597739613134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_91
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 334
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e612c479a651ee6e0800000000000000
+      internalID: -1806482852979924626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_92
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 333
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e1229888b10a850800000000000000
+      internalID: 6386134544841580124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_93
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 333
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b153198df88c130800000000000000
+      internalID: 3587275263512484751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_94
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 333
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9a8f4d8edd14190800000000000000
+      internalID: -7979853072648590890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_95
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 333
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61f23430ba872570800000000000000
+      internalID: 8441868515923915116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_96
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 333
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41524d1e131cb2e30800000000000000
+      internalID: 4479886674336425236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_97
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 333
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe5375b5a5d4bbc0800000000000000
+      internalID: -3768152080511705357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_98
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 332
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193e5e3fcfa3a07e0800000000000000
+      internalID: -1798560243082992751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_99
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 332
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0369ad9b37f0c60800000000000000
+      internalID: 7786569522820296869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_100
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 332
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e32d0f6fa3e4630800000000000000
+      internalID: 3913129958508215812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_101
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 332
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c45856f6d73b2790800000000000000
+      internalID: -7553882553588362039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_102
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 332
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf95ae74636c9910800000000000000
+      internalID: 1845459230587723691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_103
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 296
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af70155ba052efa0800000000000000
+      internalID: -5772963075538780256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_104
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 296
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329dbb24b8191ff60800000000000000
+      internalID: 8066388434903357731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_105
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 296
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f60626cb83face50800000000000000
+      internalID: 6830539566511163127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_106
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 296
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59dbfdcafa62d2130800000000000000
+      internalID: 3543531017771924885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_107
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 296
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de9c7910a07f9b80800000000000000
+      internalID: -8385860148215898409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_108
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 296
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7db5aee97a56c60800000000000000
+      internalID: 7810833429722552277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_109
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 296
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f98d05e2d37474c0800000000000000
+      internalID: -4290677195354043914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_110
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 296
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afd2882139748c40800000000000000
+      internalID: 5513665095848353697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_111
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 296
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28593af87eb927c60800000000000000
+      internalID: 7814479722290845058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_112
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 296
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0269008d39dbf3b0800000000000000
+      internalID: -5477545663601745397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_113
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 296
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64a92570518de140800000000000000
+      internalID: 4750595364508771436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_114
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 296
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b660b5d29f276d0800000000000000
+      internalID: -2994056829051966692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_115
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 297
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cca088c6c068650800000000000000
+      internalID: 6234684394419440681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_116
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 297
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f4acb508c087550800000000000000
+      internalID: 6158686235864485646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_117
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 297
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c66c03f0b1f17a0800000000000000
+      internalID: -6404370393040786410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_118
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 296
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488b885227fd16c20800000000000000
+      internalID: 3198082891758745732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_119
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 296
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657b086e71ae50400800000000000000
+      internalID: 289895139407607638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_120
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 296
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7076483bb70ef20800000000000000
+      internalID: 3449893325516507061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_121
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 296
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40f2c592d9474c00800000000000000
+      internalID: 884757020606132302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_122
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 297
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbeb97135f0a1780800000000000000
+      internalID: -8711633679642006601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_123
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 297
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa72b7d0d97603d0800000000000000
+      internalID: -3240768943967536472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_124
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 297
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1357da845803c2150800000000000000
+      internalID: 5849103365055542577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_125
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 297
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718750c5086877920800000000000000
+      internalID: 2988004763641411607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_126
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 296
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e447da88c146a0660800000000000000
+      internalID: 7352799415350686798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_127
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 260
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca149a56fd3b8370800000000000000
+      internalID: 8325816464415398593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_128
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 260
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a4ca679d90f4910800000000000000
+      internalID: 1823687203711896093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_129
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 260
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438ecc5c876d6d470800000000000000
+      internalID: 8419152367618680884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_130
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 260
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57293b7cabfdc9130800000000000000
+      internalID: 3574978197532676725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_131
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 259
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0251b3ceb14bf4240800000000000000
+      internalID: 4778235761683797280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_132
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 260
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f428e1df6f5634460800000000000000
+      internalID: 7224730338715402831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_133
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 260
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d001bf48f1179a0800000000000000
+      internalID: -6237169352923148970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_134
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 259
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a4b4bff77c97350800000000000000
+      internalID: 6015058129820797593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_135
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 260
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c055dd54471bcbe30800000000000000
+      internalID: 4520683238919591180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_136
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 278
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70176fc61e3d99240800000000000000
+      internalID: 4799099843089166599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_137
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 278
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1a38b478a1d4b00800000000000000
+      internalID: 814336276013752828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_138
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 260
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1acc5b6815292d0800000000000000
+      internalID: -3273464340127374940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_139
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 260
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e396557aa3b04d90800000000000000
+      internalID: -7115489866550963232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_140
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 260
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9be76521eb91c330800000000000000
+      internalID: 3729433357736995738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_141
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 260
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6025f49d58bf109b0800000000000000
+      internalID: -5115531149421096442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_142
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 260
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf30676dafa40ea0800000000000000
+      internalID: -5907403651904684088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_143
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 261
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9af90840abe1f60800000000000000
+      internalID: 8007041716011903459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_144
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 261
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ac67258b9582b60800000000000000
+      internalID: 7721520209319086628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_145
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 260
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4ca8fb546eedd20800000000000000
+      internalID: 3305332363777197281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_146
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 260
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d3b5312cc94d2c0800000000000000
+      internalID: -4407725777926537895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_147
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 260
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7723de4f542fb3230800000000000000
+      internalID: 3619753107798176375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_148
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 223
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc15590feb0950b0800000000000000
+      internalID: -5739543128825324354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_149
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 242
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867e3fe579f9a88d0800000000000000
+      internalID: -2843284742249126040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_150
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 228
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1c1f9c96c6f8d20800000000000000
+      internalID: 3282961854991810988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_151
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 228
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352ab752065bcdf00800000000000000
+      internalID: 1142987829995610707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_152
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 228
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a3192a34f9e93e0800000000000000
+      internalID: -2045022067940574588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_153
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 228
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcaad72d240477b20800000000000000
+      internalID: 3132042721602939595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_154
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 229
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b104ccd78b1963090800000000000000
+      internalID: -8055090661935005669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_155
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 228
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229e023e14d013850800000000000000
+      internalID: 6354875125831100706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_156
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 228
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df5098fc9a177820800000000000000
+      internalID: 2915828545233117143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_157
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 242
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3660c0a3c4e4b10800000000000000
+      internalID: 1967593899401044987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_158
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 228
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea61dc62554a75790800000000000000
+      internalID: -7541378365378455890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_159
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 228
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68957fb0192b8090800000000000000
+      internalID: -8031280358576777110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_160
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 228
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252b724c283b6c2a0800000000000000
+      internalID: -6717484419958459822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_161
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 228
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514514cdfa52becf0800000000000000
+      internalID: -222042319379934187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_162
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 229
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cab1740436c1030800000000000000
+      internalID: 3466754940890491912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_163
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 228
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5327bb3b573a3efc0800000000000000
+      internalID: -3466747562223242699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_164
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 228
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1609833ef25cd9310800000000000000
+      internalID: 1413502667530473569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_165
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 226
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb35733d544f3560800000000000000
+      internalID: 7295625088449461195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_166
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8feef5f03b864f50800000000000000
+      internalID: 6865327724374716298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_167
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 223
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd42fb4e8001f6b0800000000000000
+      internalID: -5264425878259872272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_168
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 225
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f10a0369282d0d0800000000000000
+      internalID: -3399511187138797697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_169
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 188
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b91297c587aa100800000000000000
+      internalID: 120040678643309428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_170
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 187
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78875d72591679600800000000000000
+      internalID: 474955578957199495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_171
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 190
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c0ba16e0e204fc0800000000000000
+      internalID: -3512757070045967238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_172
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 189
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0eec109b7838eba0800000000000000
+      internalID: -6059531195277054449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_173
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 188
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fe072885b267810800000000000000
+      internalID: 1762643963307683637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_174
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 190
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6979a3a4d33c8c2b0800000000000000
+      internalID: -5563982671610472554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_175
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 189
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf12d93fb425e250800000000000000
+      internalID: 5973220884504256453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_176
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 188
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed90cba41ee3a7880800000000000000
+      internalID: -8612502200050251298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_177
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 188
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a74d1976a32ae360800000000000000
+      internalID: 7199606152208664489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_178
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 187
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75609af1cca91d90800000000000000
+      internalID: -7126474986204666498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_179
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 186
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b7e9eb5f8e49cf0800000000000000
+      internalID: -246315937435845793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_180
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 189
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6737b638c1c3c6b10800000000000000
+      internalID: 1976020429670413174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_181
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 188
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee38bbea8ec83160800000000000000
+      internalID: 7005576316430335722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_182
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 187
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5612b31f813cbb900800000000000000
+      internalID: 701368678880059749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_183
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 188
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7915ec4ff674e10800000000000000
+      internalID: 2181835641708451815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_184
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 187
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25daeb756789acf20800000000000000
+      internalID: 3443732499123842386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_185
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 186
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6def3bf5ed3b2e0800000000000000
+      internalID: -2111099297683548424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_186
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 189
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4317bd169cc95e6b0800000000000000
+      internalID: -5267631800395796172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_187
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 188
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d0389e7d3f29510800000000000000
+      internalID: 1554572930057440640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_188
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 187
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b416cbb7c98ed70800000000000000
+      internalID: 9072673504593267598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_189
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 189
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3ea9a7185e866c0800000000000000
+      internalID: -4149814712351398974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_190
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 187
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8b6c56d366fdec0800000000000000
+      internalID: -3539998368203360001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_191
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 186
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64587f80b2d9d83f0800000000000000
+      internalID: -896887942617266874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_192
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 188
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46b2a6d372b89df0800000000000000
+      internalID: -173192375061793206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_193
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 150
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6069160250bac1c0800000000000000
+      internalID: -4482576612757774228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_194
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 149
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4e8f567cf9db530800000000000000
+      internalID: 3872426933366613169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_195
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 152
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4ad6a40ba5d35e0800000000000000
+      internalID: -1928285352235260722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_196
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 151
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d3271286bec7640800000000000000
+      internalID: 5079193312237337882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_197
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 150
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f2debda90f74b70800000000000000
+      internalID: 8883333337916976940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_198
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 152
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef56066ea6c09f40800000000000000
+      internalID: 5733300777980944352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_199
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 151
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a232c4c5319b43250800000000000000
+      internalID: 5923562902703055658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_200
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 150
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a3bc94c60d923e0800000000000000
+      internalID: -2077900589541672372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_201
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 151
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24df82de1bc1767c0800000000000000
+      internalID: -4078259387047019198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_202
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 150
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b689b272dd24bd50800000000000000
+      internalID: 6752072123226359476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_203
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 149
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6a3d8d46dccfa10800000000000000
+      internalID: 1944654972135384768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_204
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 152
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c40bd9a2c7a10dc0800000000000000
+      internalID: -3674471366442416955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_205
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 151
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be4a25c71b8ed7a0800000000000000
+      internalID: -6350485490337427791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_206
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 150
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dce8c866a74f020800000000000000
+      internalID: 2374657484394515810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_207
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 151
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d8c51f286d329f0800000000000000
+      internalID: -494315676197155564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_208
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 150
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e639aef1877f24f0800000000000000
+      internalID: -851330404342745368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_209
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 149
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c26e43c35b28630800000000000000
+      internalID: 3927901095210658875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_210
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 152
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eaa638de3883d0a0800000000000000
+      internalID: -6857988004058322199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_211
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 151
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cc60512ef29c800800000000000000
+      internalID: 633089870684146691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_212
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 150
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1069454e66dee8e0800000000000000
+      internalID: -1662155443355951078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_213
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 150
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352653817f938f5d0800000000000000
+      internalID: -3028607015980801453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_214
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 150
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb83275dca9d1790800000000000000
+      internalID: -7557714392936903746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_215
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 150
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3a8d5732eb14c90800000000000000
+      internalID: -7187254470796336195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_216
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 150
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a4f5aef402ef9b0800000000000000
+      internalID: -5044559005001758150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_217
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 150
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706abddd8c77bfcc0800000000000000
+      internalID: -3676212966218553849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_218
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 113
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3603ba0aa7ee0400800000000000000
+      internalID: 292425743335622205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_219
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 113
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b9b3b761d203d10800000000000000
+      internalID: 2103230600562056054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_220
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 113
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e22c6480ed34c5a0800000000000000
+      internalID: -6502003927512505626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_221
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 113
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9046d0d9e1169e80800000000000000
+      internalID: -8172324777888431974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_222
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 113
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a3e8b6b033f3a40800000000000000
+      internalID: 5350051006481578530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_223
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 114
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac160d369e62dde70800000000000000
+      internalID: 9141505602475811274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_224
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 113
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb165ff965f7be260800000000000000
+      internalID: 7127930845271515582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_225
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 113
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d86fa21533e5e60800000000000000
+      internalID: 7952850415689043307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_226
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 114
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f09587f35d1d5e30800000000000000
+      internalID: 4493780249657839859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_227
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 113
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d77432d520c187d0800000000000000
+      internalID: -2917839814886393903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_228
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 113
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2522dc67d03176f0800000000000000
+      internalID: -688715566209161940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_229
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 114
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9c00b439e23cf20800000000000000
+      internalID: 3441645750394603960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_230
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 113
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe0c7ccad8fc9380800000000000000
+      internalID: -8963015539756888336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_231
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 113
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c391f33d8233ec2e0800000000000000
+      internalID: -2103687725499606724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_232
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 114
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5831075574ce2a70800000000000000
+      internalID: 8804190329805813851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_233
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 113
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9891eebccc4823760800000000000000
+      internalID: 7436151949871683977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Tressa Merchant Base_234
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 113
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2b02f406634c4e0800000000000000
+      internalID: -1962383750354390340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b868338373427ea49918e510e90cedc7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
